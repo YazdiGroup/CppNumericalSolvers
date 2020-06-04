@@ -70,3 +70,7 @@ CppNumericalSolvers.config
 /test
 /tester.tar
 tensorflow/solve
+
+# Custom Anyon Entries
+cmake-build-debug/
+submodules/
